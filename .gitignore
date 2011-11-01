@@ -8,3 +8,4 @@ etherpad-lite-win.zip
 var/*.db
 bin/convertSettings.json
 .idea
+*~
