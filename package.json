@@ -14,7 +14,7 @@
                       "ueberDB"    : "https://github.com/emirotin/ueberDB/tarball/master",
                       "async"      : "0.1.9",
                       "joose"      : "3.18.0",
-                      "express"    : "2.4.5",
+                      "express"    : "2.5.0",
                       "clean-css"  : "0.2.4",
                       "uglify-js"  : "1.0.7",
                       "gzip"       : "0.1.0",
